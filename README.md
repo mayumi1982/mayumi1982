@@ -14,4 +14,4 @@
  
 </div>
 
-![Snake animation](https://github.com/mayumi1982/mayumi1982/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mayumi1982/mayumi1982/blob/output/github-contribution-grid-snake.svg)
