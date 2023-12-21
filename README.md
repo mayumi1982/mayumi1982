@@ -1,17 +1,23 @@
-## Oiii! Meu nome é Danielle Lima! 
+# Bem-vindo ao meu cantinho!
+Olá, sou Danielle, formada em Análise e Desenvolvimento de Sistemas. 👩‍💻
 
-<div align="left center">
-  <a href="https://github.com/mayumi1982">
-  <img  align="center", height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayumi1982&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## Minhas métricas de linguagem de programação:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayumi1982&layout=compact&langs_count=7&theme=dracula" height="150px" align="center" alt="Estatísticas de Linguagens"/>
+</p>
 
- <br> 
-  
-  <div align="left center"> 
-  <a href="https://instagram.com/danicas_mayus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "daniellemayumitaira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/lima-danielle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<br>    
-  </div>
-<br>
-  Estou em completo aprendizado, busco oportunidades e desafios!🎯🌟
+## Principais linguagens que utilizo:
+ - Python
+ - JavaScript
+ - PostgreSQL
+ - SQL Server
+ - Framework Retool
+ - Experiência em criação de relatórios no Power BI
+
+## Onde me encontrar:
+E-mail: daniellemayumitaira@gmail.com
+LinkedIn: [Danielle Lima](https://www.linkedin.com/in/lima-danielle/)
+
+Estou constantemente aprendendo, em busca de novas oportunidades e desafios! 🎯✨
+
+Se quiser trocar ideias ou colaborar em projetos, fique à vontade para entrar em contato!
