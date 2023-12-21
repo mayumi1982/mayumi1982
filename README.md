@@ -2,10 +2,9 @@
 
 <div align="left center">
   <a href="https://github.com/mayumi1982">
-  <img align="center", height="150px" src="https://github-readme-stats.vercel.app/api?username=mayumi1982&show_icons=true&theme=dracula&include_all_commits=true&count_private=true",  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img  align="center", height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayumi1982&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
  <br> 
   
   <div align="left center"> 
