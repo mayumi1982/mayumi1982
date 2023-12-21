@@ -15,8 +15,8 @@ Olá, sou Danielle, formada em Análise e Desenvolvimento de Sistemas. 👩‍�
  - Experiência em criação de relatórios no Power BI
 
 ## Onde me encontrar:
-E-mail: daniellemayumitaira@gmail.com
-LinkedIn: [Danielle Lima](https://www.linkedin.com/in/lima-danielle/)
+- E-mail: daniellemayumitaira@gmail.com <br>
+- LinkedIn: [Danielle Lima](https://www.linkedin.com/in/lima-danielle/)
 
 Estou constantemente aprendendo, em busca de novas oportunidades e desafios! 🎯✨
 
