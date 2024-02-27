@@ -7,10 +7,9 @@ Olá, sou Danielle, formada em Análise e Desenvolvimento de Sistemas. 👩‍�
 </p>
 
 ## Principais linguagens que utilizo:
- - Python
- - JavaScript
- - PostgreSQL
- - SQL Server
+ - Python 
+ - SQL: SQL Server, MySQL e PostgreSQL
+ - NoSQL : MongoDB, Firebase
  - Framework Retool
  - Experiência em criação de relatórios no Power BI
 
